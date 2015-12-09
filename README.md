@@ -2,7 +2,7 @@
 Jose Lechuga
 
 Follow the link to open the project:
-
+http://joslec9.github.io/Neighborhood-Map-master/
 
 Basic Description
 This project is using Google Maps API to display the New York City area.<br/>
@@ -20,5 +20,3 @@ The markers display many of the locations and main attractions of the NYC area. 
 http://knockoutjs.com/documentation/introduction.html<br/>
 http://api.jquery.com/<br/>
 http://www.w3schools.com/
-https://www.yelp.com/developers/documentation/v2/examples
-
